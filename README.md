@@ -2,6 +2,8 @@
 
 A pig game presents, in this case, 2 players.
 
+<b>RULES</b>
+
 <ul>
   <li>The objective of the game is to get to 100 by rolling the dice.</li>
   <li>Everytime you roll the dice, whatever number yoy get will be added to the score.</li>
