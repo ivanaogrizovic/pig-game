@@ -1,5 +1,3 @@
-# pig-game
-
 <h1>A pig game made wih JS DOM manipulation.</h1>
 
 A pig game presents, in this case, 2 players.
@@ -10,4 +8,5 @@ If you score "1", your points, howevery, will reset to 0.
 You can "hold" onto your score and let the other player play, or roll again if you feel lucky.
 
 Hosted on GitHub Pages, link: https://ivanaogrizovic.github.io/pig-game/
-<img scr="preview.gif">
+
+<img src="preview.gif" />
