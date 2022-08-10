@@ -1,5 +1,3 @@
-# pig-game
-
 <h1>A pig game made wih JS DOM manipulation.</h1>
 
 A pig game presents, in this case, 2 players.
